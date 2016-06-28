@@ -2,10 +2,10 @@
 
 # Site settings
 title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Dunno what to write btw."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+baseurl: "/cool" #important: start with /
+url: "http://gracejonn123.github.io"
 
 # Build settings
 markdown: kramdown
@@ -51,9 +51,9 @@ tel: +34 8493-4893
     
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
+  - name: Jijjy John
     position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: I aspire, i inspire, i perspire.
     img: team01.jpg
     social:
       - title: envelope #use for email address
@@ -100,7 +100,7 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Nice company lololol"
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
