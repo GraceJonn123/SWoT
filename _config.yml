@@ -4,8 +4,8 @@
 title: SOLID.
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: UA-50546869-2
-baseurl: "/solid-jekyll" #important: start with /
-url: "http://st4ple.github.io"
+baseurl: "/cool" #important: start with /
+url: "http://gracejonn123.github.io"
 
 # Build settings
 markdown: kramdown
@@ -51,7 +51,7 @@ tel: +34 8493-4893
     
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
+  - name: Grace John  
     position: CEO
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team01.jpg
