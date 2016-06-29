@@ -4,7 +4,7 @@
 title: SWoT.
 description: "Spoken Word Today!"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/cool" #important: start with /
+baseurl: "" #important: start with /
 url: "http://gracejonn123.github.io"
 
 # Build settings
